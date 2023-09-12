@@ -24,8 +24,8 @@
   ● Singly Linked-List and Doubly Linked-List.
   ● Queue & Stack.
   ● C projects (Sudoku Full Game, and Organize Students data Program).
-    >>> created +100 C Functions to do Specific Tasks.<<<
+    >>> created +100 C Functions to do Specific Tasks.
 
 
 
-Supervised by Eng: Mohamed Abdelbaset
+### Supervised by Eng: Mohamed Abdelbaset
