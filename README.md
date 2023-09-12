@@ -12,8 +12,8 @@
   ● C functions.
   ● C Pointers and Casting.
   ● C Arrays and Strings.
-  ● Arrays of pointers vs 2D Arrays.
-  ● Bit wise operations.
+  ● Arrays of pointers vs. 2D Arrays.
+  ● Bitwise operations.
   ● Structures, Unions and Enumerations.
   ● Bit-Fields and its usage.
   ● Functions to Functions Pointers. 
@@ -23,5 +23,9 @@
   ● Static & Dynamic Memory Allocation.
   ● Singly Linked-List and Doubly Linked-List.
   ● Queue & Stack.
-  ● C projects (Sudoku Full Game , and Organize students data Program).
-### >>> created +100 C Functions to do Specific Tasks.
+  ● C projects (Sudoku Full Game, and Organize Students data Program).
+    >>> created +100 C Functions to do Specific Tasks.<<<
+
+
+
+Supervised by Eng: Mohamed Abdelbaset
