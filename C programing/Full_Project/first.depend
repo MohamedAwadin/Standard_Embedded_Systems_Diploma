@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1694532687 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"stack.h"
+
+1692067919 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\array.c
+
+1691674877 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\math.c
+
+1691787314 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\binary.c
+
+1692914300 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\string.c
+	"string.h"
+
+1690332301 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\file1.c
+
+1690333045 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\file2.c
+
+1693997897 c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\student.h
+	"string.h"
+	<stdio.h>
+	<stdlib.h>
+
+1693998405 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\student.c
+	"student.h"
+
+1692914309 c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\string.h
+
+1694512943 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\stack.c
+	"stack.h"
+
+1694512678 c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\stack.h
+	"list.h"
+
+1694518510 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\queue.c
+	"queue.h"
+
+1694517807 c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\queue.h
+	"list.h"
+
+1694532546 c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\list.h
+
+1694533716 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\list.c
+	"list.h"
+
