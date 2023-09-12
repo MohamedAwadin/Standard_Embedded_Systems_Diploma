@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1693997952 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\main.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+	"string.h"
+
+1692067919 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\array.c
+
+1691674877 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\math.c
+
+1691787314 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\binary.c
+
+1692914300 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\string.c
+	"string.h"
+
+1690332301 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\file1.c
+
+1690333045 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\file2.c
+
+1693997897 c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\student.h
+	"string.h"
+	<stdio.h>
+	<stdlib.h>
+
+1693997896 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\student.c
+	"student.h"
+
+1692914309 c:\users\mohamed awadin\desktop\abdelbaset\c programming\first\string.h
+
+1692067919 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\sheets\student\first\array.c
+
+1691787314 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\sheets\student\first\binary.c
+
+1691674877 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\sheets\student\first\math.c
+
+1692914300 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\sheets\student\first\string.c
+	"string.h"
+
+1692914309 c:\users\mohamed awadin\desktop\abdelbaset\c programming\sheets\student\first\string.h
+
+1694009829 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\sheets\student\first\main.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+	"string.h"
+
+1694010535 c:\users\mohamed awadin\desktop\abdelbaset\c programming\sheets\student\first\student.h
+	"string.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1694003148 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\sheets\student\first\student.c
+	"student.h"
+

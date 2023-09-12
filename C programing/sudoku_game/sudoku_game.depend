@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692106096 source:c:\users\mohamed awadin\desktop\abdelbaset\c programming\sheets\sheet5\sudoku_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
